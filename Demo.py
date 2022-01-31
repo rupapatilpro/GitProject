@@ -61,6 +61,10 @@ for v in veggiesAmount:
 print(sum)
 
 assert sum == int(amount2)
+#assert sum == int(amount4)
+#assert sum == int(amount6)
+#assert sum == int(amount8)
+#assert sum == int(amount10)
 
 
 
